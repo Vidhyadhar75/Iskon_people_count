@@ -36,7 +36,7 @@ export default function Header() {
         </div>
 
         <div>
-          <h2 style={{ margin: 0 }}>ISKCON Dashboard</h2>
+          <h2 style={{ margin: 0 }}>🛕 Hare Krishna Movement 🙏</h2>
           <p style={{ margin: 0, fontSize: 12 }}>
             Smart Crowd Analytics System
           </p>
