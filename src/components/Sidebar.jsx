@@ -3,6 +3,7 @@ export default function Sidebar({ active, setActive, isOpen, setIsOpen }) {
     { id: "dashboard", label: "🏠 Dashboard" },
     { id: "analytics", label: "📊 Analytics" },
     { id: "day", label: "📅 Day Analysis" },
+    { id: "range", label: "📅 Range" },
     { id: "table", label: "📋 Data Table" }
   ];
 
