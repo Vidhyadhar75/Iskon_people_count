@@ -11,7 +11,7 @@ import Alert from "./components/Alert";
 import WeeklyMonthly from "./components/WeeklyMonthly";
 import Sidebar from "./components/Sidebar";
 
-const BASE_URL = "https://iskon-people-backend.onrender.com/";
+const BASE_URL = "https://iskon-people-backend.onrender.com";
 
 function App() {
   // ================== STATE ==================
